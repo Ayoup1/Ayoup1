@@ -5,6 +5,7 @@
 - 👨‍💻 Focused on crafting web applications and developer tools.
 - 🌍 Living in Munich 🇩🇪 | from Morocco 🇲🇦.
 - 🥅 Objectives for 2024:
-  - [ ] 🏄🏽‍♂️ Surf in the Eisbach, Munich.
+  - [X] 🏃🏽‍♂️ Complete a Olympic distance triathlon.
   - [ ] 🏊‍♂️ Complete a Half Ironman challenge.
+  - [ ] 🏄🏽‍♂️ Surf in the Eisbach, Munich.
   - [ ] 💻 Launch an online service.
