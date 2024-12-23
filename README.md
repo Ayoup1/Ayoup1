@@ -6,6 +6,6 @@
 - 🌍 Living in Munich 🇩🇪 | from Morocco 🇲🇦.
 - 🥅 Objectives for 2024:
   - [X] 🏃🏽‍♂️ Complete an Olympic-distance triathlon.
-  - [ ] 🏊‍♂️ Complete a Half Ironman challenge.
+  - [x] 🏊‍♂️ Complete a Half Ironman challenge.
   - [ ] 🏄🏽‍♂️ Surf in the Eisbach, Munich.
   - [ ] 💻 Launch an online service.
