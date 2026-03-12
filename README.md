@@ -10,6 +10,6 @@
   - [ ] ~~🏄🏽‍♂️ Surf in the Eisbach, Munich.~~
   - [ ] ~~💻 Launch an online service.~~
 - 🥅 Objectives for 2025:
-  - [ ] 🏃🏽‍♂️ Complete **2** Olympic-distance triathlon.
-  - [ ] 🏊‍♂️ Complete **2** Half Ironman challenge.
-  - [ ] 💻 Launch an online service.
+  - [x] ~~🏃🏽‍♂️ Complete **1** Olympic-distance triathlon.~~
+  - [x] ~~🏊‍♂️ Complete **1** Half Ironman challenge.~~
+  - [x] ~~💻 Launch an online service.~~
